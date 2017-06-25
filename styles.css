@@ -1,0 +1,40 @@
+.clear {
+    clear:both;}
+
+
+.callout {
+    font-style: italic;
+    font-weight: 700;
+    color: coral;
+}
+h1 {font-family: 'Satisfy', cursive;
+}
+
+
+
+body{
+
+    align:center;
+}
+p.center, h1.center{
+    font-family: 'Satisfy', cursive;
+
+    text-align: center;
+
+}
+span{
+    padding-left:5px;
+    float:right;
+}
+.left-side-nav{
+    width: 50%;
+    float: left;
+}
+.right-side-nav{
+    width: 50%;
+    float: right;
+
+}
+
+
+
